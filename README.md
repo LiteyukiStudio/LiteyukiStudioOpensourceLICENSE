@@ -1,0 +1,2 @@
+# LiteyukiStudioOpensourceLICENSE
+轻雪工作室的开源许可证
